@@ -14,6 +14,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### Hi! 😎🤙
+
+My name is Guillermo, junior full-stack developer.
+
+- 🔭 I’m currently working on @citizenfx and @altmp projects.
+- 🌱 I’m currently learning Python, Keras, Tensorflow and others
+- 💬 Ask me about TypeScript, JavaScript, Angular, Java, HTML, CSS, SQL...
+- 😄 Pronouns: He/Him
+
 
 ### Github Stats :octocat: 
 ![Guillefun's GitHub stats](https://github-readme-stats.vercel.app/api?username=guillefun&show_icons=true&theme=dracula&hide_title=true)
