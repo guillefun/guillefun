@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 
 My name is Guillermo, junior full-stack developer.
 
-- 🔭 I’m currently working on @citizenfx and @altmp projects.
 - 🌱 I’m currently learning Python, Keras, Tensorflow and others
 - 💬 Ask me about TypeScript, JavaScript, Angular, Java, HTML, CSS, SQL...
 - 😄 Pronouns: He/Him
