@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ### Hi! 😎🤙
 
-My name is Guillermo, junior full-stack developer.
+My name is Guillermo, junior front-end developer.
 
 - 🌱 I’m currently learning Python, Keras, Tensorflow and others
 - 💬 Ask me about TypeScript, JavaScript, Angular, Java, HTML, CSS, SQL...
