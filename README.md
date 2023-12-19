@@ -5,7 +5,7 @@ My name is Guillermo, junior front-end developer.
 - 🌱 I’m currently learning Python, Keras, Tensorflow and others
 - 💬 Ask me about TypeScript, Angular, Java, HTML, CSS, SQL...
 - 😄 Pronouns: He/Him
-
+- 📩 Personal e-mail: contact@guillefun.com
 
 ### Github Stats :octocat:
 
