@@ -1,6 +1,6 @@
 ### Hi! 😎🤙
 
-My name is Guillermo, junior front-end developer.
+My name is Guillermo, front-end developer.
 
 - 🌱 I’m currently learning Python, Keras, Tensorflow and others
 - 💬 Ask me about TypeScript, Angular, Java, HTML, CSS, SQL...
